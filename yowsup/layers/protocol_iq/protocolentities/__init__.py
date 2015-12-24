@@ -6,3 +6,4 @@ from .iq_error import ErrorIqProtocolEntity
 from .iq_push import PushIqProtocolEntity
 from .iq_props import PropsIqProtocolEntity
 from .iq_crypto import CryptoIqProtocolEntity
+from .iq_broadcast import BroadcastListIqProtocolEntity
